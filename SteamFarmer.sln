@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamFarmer.Models", "SteamFarmer.Models\SteamFarmer.Models.csproj", "{88494106-229C-4A4B-9A35-0350F6A7294E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamFarmer.Core", "SteamFarmer.Core\SteamFarmer.Core.csproj", "{77935E65-BBB0-47BA-97D0-3F59290C5C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamFarmer.UI", "SteamFarmer.UI\SteamFarmer.UI.csproj", "{45EFC253-BF19-4867-8EAA-776F191E974C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88494106-229C-4A4B-9A35-0350F6A7294E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88494106-229C-4A4B-9A35-0350F6A7294E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88494106-229C-4A4B-9A35-0350F6A7294E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88494106-229C-4A4B-9A35-0350F6A7294E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77935E65-BBB0-47BA-97D0-3F59290C5C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77935E65-BBB0-47BA-97D0-3F59290C5C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77935E65-BBB0-47BA-97D0-3F59290C5C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77935E65-BBB0-47BA-97D0-3F59290C5C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45EFC253-BF19-4867-8EAA-776F191E974C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EFC253-BF19-4867-8EAA-776F191E974C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EFC253-BF19-4867-8EAA-776F191E974C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EFC253-BF19-4867-8EAA-776F191E974C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
