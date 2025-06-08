@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WhyDiduGetIntoCoing\\HourFarmer\\mmm_SteamFarm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77935E65-BBB0-47BA-97D0-3F59290C5C72}|SteamFarmer.Core\\SteamFarmer.Core.csproj|d:\\whydidugetintocoing\\hourfarmer\\mmm_steamfarm\\steamfarmer.core\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77935E65-BBB0-47BA-97D0-3F59290C5C72}|SteamFarmer.Core\\SteamFarmer.Core.csproj|solutionrelative:steamfarmer.core\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77935E65-BBB0-47BA-97D0-3F59290C5C72}|SteamFarmer.Core\\SteamFarmer.Core.csproj|d:\\whydidugetintocoing\\hourfarmer\\mmm_steamfarm\\steamfarmer.core\\steamfarmer.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77935E65-BBB0-47BA-97D0-3F59290C5C72}|SteamFarmer.Core\\SteamFarmer.Core.csproj|solutionrelative:steamfarmer.core\\steamfarmer.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SteamFarmer.Core.csproj",
+              "DocumentMoniker": "D:\\WhyDiduGetIntoCoing\\HourFarmer\\mmm_SteamFarm\\SteamFarmer.Core\\SteamFarmer.Core.csproj",
+              "RelativeDocumentMoniker": "SteamFarmer.Core\\SteamFarmer.Core.csproj",
+              "ToolTip": "D:\\WhyDiduGetIntoCoing\\HourFarmer\\mmm_SteamFarm\\SteamFarmer.Core\\SteamFarmer.Core.csproj",
+              "RelativeToolTip": "SteamFarmer.Core\\SteamFarmer.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T02:34:54.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimulationService.cs",
+              "DocumentMoniker": "D:\\WhyDiduGetIntoCoing\\HourFarmer\\mmm_SteamFarm\\SteamFarmer.Core\\Services\\SimulationService.cs",
+              "RelativeDocumentMoniker": "SteamFarmer.Core\\Services\\SimulationService.cs",
+              "ToolTip": "D:\\WhyDiduGetIntoCoing\\HourFarmer\\mmm_SteamFarm\\SteamFarmer.Core\\Services\\SimulationService.cs",
+              "RelativeToolTip": "SteamFarmer.Core\\Services\\SimulationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:55:57.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
